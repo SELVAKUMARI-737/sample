@@ -1,0 +1,7 @@
+git commands:-
+ git clone <url>
+ git add folder name or space and dot 
+ git commit -m " msg"
+ git push 
+ git pull 
+ 
